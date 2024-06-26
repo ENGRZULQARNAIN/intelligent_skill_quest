@@ -17,8 +17,8 @@ load_dotenv()
 import streamlit as st
 
 
-# os.environ["GOOGLE_API_KEY"]= st.secrets['GOOGLE_API_KEY']
-os.environ["GOOGLE_API_KEY"]=os.getenv("GOOGLE_API_KEY")
+os.environ["GOOGLE_API_KEY"]= st.secrets['GOOGLE_API_KEY']
+# os.environ["GOOGLE_API_KEY"]=os.getenv("GOOGLE_API_KEY")
 def create_response_schema():
      response_schemas=[]
      for i in range(10):
