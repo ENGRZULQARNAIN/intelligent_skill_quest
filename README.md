@@ -1,3 +1,4 @@
+
 # Intelligent Skill Quest
 
 Intelligent Skill Quest is a cutting-edge application designed to assess IT candidates by evaluating their skills and knowledge through customized multiple-choice questions (MCQs). This application aims to streamline the recruitment process by providing a comprehensive assessment tool that adapts to the candidate's education level, desired position, and specific skill set.
@@ -9,6 +10,10 @@ Intelligent Skill Quest is a cutting-edge application designed to assess IT cand
 - **Interactive Interface**: Built with Streamlit, the app offers a user-friendly interface for candidates to answer questions one by one.
 - **AI Evaluation**: The candidate's responses are evaluated by an AI system to provide an accurate assessment of their skills.
 - **Detailed Results**: Candidates receive a detailed report on their performance, highlighting strengths and areas for improvement.
+
+## Deployed Application Link
+
+Access the deployed application here: [Intelligent Skill Quest](https://skillquest-zul.streamlit.app/)
 
 ## Technologies Used
 
@@ -24,8 +29,8 @@ To get started with Intelligent Skill Quest, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/intelligent-skill-quest.git
-    cd intelligent-skill-quest
+    git clone https://github.com/ENGRZULQARNAIN/intelligent_skill_quest.git
+    cd intelligent_skill_quest
     ```
 
 2. **Install the required dependencies**:
